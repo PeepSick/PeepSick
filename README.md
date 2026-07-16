@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="peepsicklabs-logo.png" alt="PeepSick Labs" width="320">
+  <img src="peepsicklabs-logo.png" alt="PeepSick Labs" width="480">
 
   ### PeepSick Labs
 
