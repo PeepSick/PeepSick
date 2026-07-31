@@ -17,8 +17,9 @@
 | 🛸 [**USB — Universal Skill Bridge**](https://usb.peepsicklabs.com) | One portable skill format, installed into 16 agent runtimes (Claude Code, Cursor, MCP, LangChain, local models) with sha256-verified installers. On npm: [`@peepsick/usb-cli`](https://www.npmjs.com/package/@peepsick/usb-cli) · [`@peepsick/usb-sdk`](https://www.npmjs.com/package/@peepsick/usb-sdk) | 🟢 Live (beta) |
 | 🧠 **LeoSIS** | OpenAI-compatible LLM provider layer. | 🧪 In development |
 | 🏭 **Foundry** | Multi-agent orchestration runtime. | 🧪 In development |
+| 🎙️ [**ModelForce**](https://github.com/PeepSick/ModelForce) | One runtime, multiple TTS providers (Piper, Kokoro, XTTS). Switch providers without changing your application. | 🟢 Live (alpha) |
 
-> **USB installs skills. Foundry builds agents. LeoSIS powers intelligence.**
+> **USB installs skills. Foundry builds agents. LeoSIS powers intelligence. ModelForce gives them a voice.**
 > Three independent layers, one ecosystem — each ships standalone.
 
 ### How we work
