@@ -4,7 +4,7 @@
 
   ### Peepsick Labs
 
-  **Independent AI infrastructure studio — building open tools for AI agents, local AI and autonomous systems.**
+  **Independent AI infrastructure studio — building tools for AI agents, local AI and autonomous systems.**
 
   <sub>PEEPSICK LIMITED · London, United Kingdom · Bootstrapped · Building in public</sub>
 
@@ -16,23 +16,24 @@
 
 | Project | What it does | Status |
 | :--- | :--- | :--- |
-| 🛸 [**USB — Universal Skill Bridge**](https://usb.peepsicklabs.com) | One portable skill format for agent runtimes, with SHA-256 verified installers. Supports Claude Code, Cursor, MCP, LangChain and local models. Available on npm: [`@peepsick/usb-cli`](https://www.npmjs.com/package/@peepsick/usb-cli) · [`@peepsick/usb-sdk`](https://www.npmjs.com/package/@peepsick/usb-sdk) | 🟢 Live (beta) |
-| 🧠 **LeoSIS** | AI-native agent infrastructure for reasoning, memory, tool orchestration, MCP integrations and autonomous workflows. | 🧪 In development |
-| 🏭 **Foundry** | Multi-agent orchestration runtime for building and coordinating autonomous systems. | 🧪 In development |
-| 🎙️ [**ModelForce**](https://github.com/PeepSick/ModelForce) | Self-hosted voice infrastructure with a unified interface for multiple TTS providers, including Piper, Kokoro and XTTS. | 🟢 Live (alpha) |
+| 🛸 [**USB — Universal Skill Bridge**](https://usb.peepsicklabs.com) | A portable skill format for AI agent runtimes, with SHA-256 verified installers. Supports Claude Code, Cursor, MCP, LangChain and local models. Available on npm: [`@peepsick/usb-cli`](https://www.npmjs.com/package/@peepsick/usb-cli) · [`@peepsick/usb-sdk`](https://www.npmjs.com/package/@peepsick/usb-sdk) | 🟢 Live (beta) |
+| 🎙️ [**ModelForce**](https://github.com/PeepSick/ModelForce) | Self-hosted voice infrastructure with a unified interface for multiple TTS providers, including Piper, Kokoro and XTTS. | 🟢 Active development |
+| 🧠 **LeoSIS Agent** | Desktop AI agent runtime built on Tauri + LRGS, combining autonomous computer use, voice interaction, multi-agent orchestration, persistent sessions, integrations and business context. Currently running and actively tested internally across Peepsick Labs projects. | 🧪 Internal testing |
+| 📬 **Keep E Box** | Agent-native, provider-agnostic mail workspace connecting major mail providers through a unified model, agent layer, policy engine and SDK. Currently running and actively tested internally. | 🧪 Internal testing |
+| 🏭 **FinishOps** | Autonomous release operations console for repository auditing, release readiness, Definition of Done, technical debt and release workflows. Currently running and actively tested internally. | 🧪 Internal testing |
 
-> **USB installs skills. Foundry builds agents. LeoSIS powers intelligence. ModelForce gives them a voice.**
+> **USB connects skills. ModelForce gives AI a voice. LeoSIS runs agents. Keep E Box connects them to work. FinishOps gets projects shipped.**
 >
-> Independent layers, one ecosystem — each project is designed to work standalone.
+> Five focused projects, one independent AI infrastructure ecosystem.
 
 ---
 
 ### How we work
 
-- **Build in public.** We share what we build, including experiments, failures and working software.
-- **Honest engineering.** Status badges reflect software that actually runs.
-- **Open source first.** MIT-licensed wherever practical.
-- **Small teams, real products.** We prefer shipping useful infrastructure over building unnecessary complexity.
+- **Build in public.** We share selected tools and experiments while keeping unreleased systems internal.
+- **Honest engineering.** Status reflects what actually runs, not what is planned.
+- **Open source where it makes sense.** We publish useful infrastructure and developer tools whenever practical.
+- **Small teams, real products.** We focus on shipping useful systems rather than unnecessary complexity.
 
 ### About Peepsick Labs
 
@@ -42,13 +43,13 @@ Our work spans:
 
 - AI agent infrastructure
 - Local and self-hosted AI
-- Model and tool orchestration
-- MCP integrations
 - Voice AI
+- Model and tool orchestration
 - Developer tooling
 - Autonomous workflows
+- AI-native software
 
-We build infrastructure intended to be composable, inspectable and useful in the real world.
+Some projects are publicly available, while others are actively running and being tested internally before public release.
 
 ---
 
@@ -57,11 +58,12 @@ We build infrastructure intended to be composable, inspectable and useful in the
 <div align="center">
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
 </div>
