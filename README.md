@@ -1,4 +1,4 @@
-&#x20;<div align="center">
+﻿<div align="center">
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-<img src="assets/peepsick-banner.png" alt="Peepsick Labs — Technology and AI Ecosystem" width="100%">
+<img src="assets/peepsick-banner.png" alt="Peepsick Labs â€” Technology and AI Ecosystem" width="100%">
 
 
 
@@ -18,19 +18,19 @@
 
 
 
-\# Peepsick Labs
+# Peepsick Labs
 
 
 
-\*\*We build the infrastructure. Agents do the work.\*\*
+**We build the infrastructure. Agents do the work.**
 
 
 
-AI Infrastructure · Agent Systems · Developer Tools · Autonomous Software
+AI Infrastructure Â· Agent Systems Â· Developer Tools Â· Autonomous Software
 
 
 
-<sub>PEEPSICK LIMITED · London, United Kingdom · Independently funded · Building in public</sub>
+<sub>PEEPSICK LIMITED Â· London, United Kingdom Â· Independently funded Â· Building in public</sub>
 
 
 
@@ -38,7 +38,7 @@ AI Infrastructure · Agent Systems · Developer Tools · Autonomous Software
 
 
 
-\[Website](https://peepsicklabs.com) · \[GitHub](https://github.com/PeepSick) · \[Contact](mailto:info@peepsicklabs.com)
+[Website](https://peepsicklabs.com) Â· [GitHub](https://github.com/PeepSick) Â· [Contact](mailto:info@peepsicklabs.com)
 
 
 
@@ -46,11 +46,11 @@ AI Infrastructure · Agent Systems · Developer Tools · Autonomous Software
 
 
 
-\---
+---
 
 
 
-\## Ⅰ. About Us
+## â… . About Us
 
 
 
@@ -70,11 +70,11 @@ We believe in useful engineering, portable systems and products that solve real 
 
 
 
-\---
+---
 
 
 
-\## Ⅱ. Our Ecosystem
+## â…¡. Our Ecosystem
 
 
 
@@ -82,21 +82,7 @@ A growing collection of products and technologies, each designed to solve a diff
 
 
 
-| Project | Description | Status |
-
-| :--- | :--- | :--- |
-
-| 🛸 \*\*\[USB+ — Universal Systems Bridge](https://usb.peepsicklabs.com)\*\* | An open-source bridge for discovering, installing and verifying AI skills across agent runtimes. Includes secscan, mcprobe, SHA-256 integrity verification, lock, diff and repair. 529 skills and 16 runtime targets. | 🟢 Live · v1.1.0 |
-
-| 🔍 \*\*\[IzMercek](https://izmercek.com)\*\* | AI Visibility Intelligence Platform. Helping businesses understand how their websites and brands appear across AI-powered search and answer experiences. | 🟢 Live |
-
-| 🧠 \*\*LeoSIS Ecosystem\*\* | An AI agent ecosystem built around the LeoSIS runtime, autonomous workflows, multi-agent orchestration, persistent context and integrations. | 🔵 Coming soon |
-
-| 🎙️ \*\*\[ModelForce](https://github.com/PeepSick/ModelForce)\*\* | Self-hosted voice infrastructure with a unified interface for multiple TTS providers, including Piper, Kokoro and XTTS. | 🛠️ Active development |
-
-| 📬 \*\*Keep E Box\*\* | An agent-native, provider-agnostic mail workspace connecting major mail providers through a unified model, agent layer, policy engine and SDK. | 🧪 Internal development |
-
-| 🏭 \*\*FinishOps\*\* | Release operations console for repository auditing, release readiness, Definition of Done, technical debt and release workflows. | 🧪 Internal development |
+| Project | Description | Status || :--- | :--- | :--- || ğŸ›¸ **[USB+ â€” Universal Systems Bridge](https://usb.peepsicklabs.com)** | An open-source bridge for discovering, installing and verifying AI skills across agent runtimes. Includes secscan, mcprobe, SHA-256 integrity verification, lock, diff and repair. 529 skills and 16 runtime targets. | ğŸŸ¢ Live Â· v1.2.0 || ğŸ” **[IzMercek](https://izmercek.com)** | AI Visibility Intelligence Platform. Helping businesses understand how their websites and brands appear across AI-powered search and answer experiences. | ğŸŸ¢ Live || ğŸ§  **LeoSIS Ecosystem** | An AI agent ecosystem built around the LeoSIS runtime, autonomous workflows, multi-agent orchestration, persistent context and integrations. | ğŸ”µ Coming soon || ğŸ™ï¸ **[ModelForce](https://github.com/PeepSick/ModelForce)** | Self-hosted voice infrastructure with a unified interface for multiple TTS providers, including Piper, Kokoro and XTTS. | ğŸ› ï¸ Active development || ğŸ“¬ **Keep E Box** | An agent-native, provider-agnostic mail workspace connecting major mail providers through a unified model, agent layer, policy engine and SDK. | ğŸ§ª Internal development || ğŸ­ **FinishOps** | Release operations console for repository auditing, release readiness, Definition of Done, technical debt and release workflows. | ğŸ§ª Internal development |
 
 
 
@@ -112,15 +98,15 @@ A growing collection of products and technologies, each designed to solve a diff
 
 
 
-> \*\*USB+ connects capabilities. IzMercek measures AI visibility. LeoSIS powers intelligent agents. ModelForce gives AI a voice. Keep E Box connects agents to communication. FinishOps helps teams ship.\*\*
+> **USB+ connects capabilities. IzMercek measures AI visibility. LeoSIS powers intelligent agents. ModelForce gives AI a voice. Keep E Box connects agents to communication. FinishOps helps teams ship.**
 
 
 
-\---
+---
 
 
 
-\## Ⅲ. USB+ — Universal Systems Bridge
+## â…¢. USB+ â€” Universal Systems Bridge
 
 
 
@@ -136,43 +122,43 @@ It has evolved into an open-source ecosystem combining capability discovery, ins
 
 
 
-\*\*The Trust Layer:\*\*
+**The Trust Layer:**
 
 
 
-\- `secscan` — Static skill contract verification with file and line-level evidence.
+- `secscan` â€” Static skill contract verification with file and line-level evidence.
 
-\- `mcprobe` — Consent-based runtime observation of MCP servers.
+- `mcprobe` â€” Consent-based runtime observation of MCP servers.
 
-\- `verify` — SHA-256 integrity checks for installed skills.
+- `verify` â€” SHA-256 integrity checks for installed skills.
 
-\- `lock` — Reproducible, version-pinned installations.
+- `lock` â€” Reproducible, version-pinned installations.
 
-\- `diff` — Capability and permission change inspection.
+- `diff` â€” Capability and permission change inspection.
 
-\- `repair` — Restore verified installed files.
+- `repair` â€” Restore verified installed files.
 
-\- GitHub Code Scanning support through SARIF output.
-
-
-
-\*\*Current release:\*\* v1.1.0
+- GitHub Code Scanning support through SARIF output.
 
 
 
-\*\*License:\*\* MIT
+**Current release:** v1.2.0
 
 
 
-\[Explore USB+](https://usb.peepsicklabs.com) · \[GitHub Repository](https://github.com/PeepSick/usbplus) · \[npm CLI](https://www.npmjs.com/package/@peepsick/usb-cli) · \[npm SDK](https://www.npmjs.com/package/@peepsick/usb-sdk)
+**License:** MIT
 
 
 
-\---
+[Explore USB+](https://usb.peepsicklabs.com) Â· [GitHub Repository](https://github.com/PeepSick/usbplus) Â· [npm CLI](https://www.npmjs.com/package/@peepsick/usb-cli) Â· [npm SDK](https://www.npmjs.com/package/@peepsick/usb-sdk)
 
 
 
-\## Ⅳ. LeoSIS — Agent Ecosystem
+---
+
+
+
+## â…£. LeoSIS â€” Agent Ecosystem
 
 
 
@@ -192,19 +178,19 @@ Its development includes:
 
 
 
-\- Autonomous agent runtime
+- Autonomous agent runtime
 
-\- Computer interaction and automation
+- Computer interaction and automation
 
-\- Multi-agent orchestration
+- Multi-agent orchestration
 
-\- Persistent sessions and context
+- Persistent sessions and context
 
-\- Voice interaction
+- Voice interaction
 
-\- Tool and MCP integrations
+- Tool and MCP integrations
 
-\- Business and workflow intelligence
+- Business and workflow intelligence
 
 
 
@@ -212,67 +198,31 @@ Its development includes:
 
 
 
-\---
+---
 
 
 
-\## Ⅴ. How We Work
+## â…¤. How We Work
 
 
 
-\- \*\*Build in public.\*\* We share useful tools, experiments and selected parts of our development process.
+- **Build in public.** We share useful tools, experiments and selected parts of our development process.
 
-\- \*\*Honest engineering.\*\* Released products, active development and upcoming projects are clearly distinguished.
+- **Honest engineering.** Released products, active development and upcoming projects are clearly distinguished.
 
-\- \*\*Open source where it makes sense.\*\* We publish useful infrastructure and developer tools whenever practical.
+- **Open source where it makes sense.** We publish useful infrastructure and developer tools whenever practical.
 
-\- \*\*Portable by design.\*\* We avoid unnecessary dependence on a single provider, framework or runtime.
+- **Portable by design.** We avoid unnecessary dependence on a single provider, framework or runtime.
 
-\- \*\*Small teams, real products.\*\* We focus on shipping useful systems rather than adding complexity for its own sake.
-
-
-
-\---
+- **Small teams, real products.** We focus on shipping useful systems rather than adding complexity for its own sake.
 
 
 
-\## Ⅵ. Technology
+---
 
 
 
-<div align="center">
-
-
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white" />
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white" />
-
-
-
-</div>
-
-
-
-\---
-
-
-
-\## Ⅶ. GitHub Activity
+## â…¥. Technology
 
 
 
@@ -280,7 +230,23 @@ Its development includes:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=PeepSick\&show\_icons=true\&theme=dark\&hide\_border=true" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 
 
 
@@ -288,11 +254,31 @@ Its development includes:
 
 
 
-\---
+---
 
 
 
-\## Ⅷ. Open Source \& Collaboration
+## â…¦. GitHub Activity
+
+
+
+<div align="center">
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=PeepSick&show\_icons=true&theme=dark&hide\_border=true" />
+
+
+
+</div>
+
+
+
+---
+
+
+
+## â…§. Open Source & Collaboration
 
 
 
@@ -320,11 +306,11 @@ Explore our repositories and build something with us.
 
 
 
-\### Built with curiosity at Peepsick Labs.
+### Built with curiosity at Peepsick Labs.
 
 
 
-\*\*Independent software. Connected intelligence. Useful technology.\*\*
+**Independent software. Connected intelligence. Useful technology.**
 
 
 
@@ -332,19 +318,20 @@ Explore our repositories and build something with us.
 
 
 
-🌐 \[peepsicklabs.com](https://peepsicklabs.com) ·
+ğŸŒ [peepsicklabs.com](https://peepsicklabs.com) Â·
 
-🛸 \[USB+](https://usb.peepsicklabs.com) ·
+ğŸ›¸ [USB+](https://usb.peepsicklabs.com) Â·
 
-🔍 \[IzMercek](https://izmercek.com) ·
+ğŸ” [IzMercek](https://izmercek.com) Â·
 
-✉️ \[info@peepsicklabs.com](mailto:info@peepsicklabs.com)
+âœ‰ï¸ [info@peepsicklabs.com](mailto:info@peepsicklabs.com)
 
 
 
-<sub>PEEPSICK LIMITED · London, United Kingdom</sub>
+<sub>PEEPSICK LIMITED Â· London, United Kingdom</sub>
 
 
 
 </div>
+
 
